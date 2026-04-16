@@ -1,6 +1,6 @@
 import sys
-from PyQt5.QtWidgets import QApplication, QMainWindow,
-            QTextEdit, QPushButton, QVBoxLayout, QWidget
+from PyQt5.QtWidgets (import QApplication, QMainWindow,
+            QTextEdit, QPushButton, QVBoxLayout, QWidget)
 from io import StringIO
 import contextlib
 
